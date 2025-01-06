@@ -1,0 +1,64 @@
+header
+{
+    border-left: 2px solid black;
+    border-right: 2px solid black;
+    border-radius: 5px;
+    padding-left: 30px;
+    padding-right: 30px;
+    text-align: justify;
+}
+h1
+{
+    text-align: center;
+}
+#elso
+{
+    text-align: justify;
+    float:left;
+    width: 500px;
+    border: 5px solid green;
+    margin-left: 60px;
+    margin-top: 40px;
+    padding-left: 30px;
+    padding-right: 15px;
+    padding-bottom: 8px;
+    padding-top: 8px;
+}
+
+#masodik
+{
+    text-align: justify;
+    float: right;
+    width: 500px;
+    border: 5px solid green;
+    margin-right: 60px;
+    margin-top: 40px;
+    padding-left: 15px;
+    padding-right: 30px;
+    padding-bottom: 8px;
+    padding-top: 8px;
+    
+}
+#harmadik
+{
+    text-align: justify;
+    border: 5px solid green;
+    width: 800px;
+    margin-left: 300px;
+    margin-right: 60px;
+    padding-left: 180px;
+    padding-right: 180px;
+    padding-bottom: 10px;
+    margin-top: 400px;
+    
+}
+#negyedik
+{
+    text-align: justify;
+    float: left;
+    width: 350px;
+    border: 5px solid green;
+    padding: 5px;
+    margin-left: 250px;
+    margin-top: 50px;
+}
